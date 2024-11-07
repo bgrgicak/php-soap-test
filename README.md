@@ -4,7 +4,6 @@ This repository contains a simple PHP SOAP client and server.
 
 TODO:
 - [ ] Find out why the client is not working in the browser
-- [ ] Find out why the client is extremely slow when run from the terminal
 
 ## Start the server
 
